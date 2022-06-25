@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanikhatib
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning about object-oriented programming
-- 🤝 I’m looking to collaborate on deep learning projects
+- 🌱 I’m currently learning about rendering video using neural graphics primitives
+- 🤝 I’m looking to collaborate on machine vision projects
 - 📫 How to reach me: https://www.linkedin.com/in/hani-khatib
 
 <!---
