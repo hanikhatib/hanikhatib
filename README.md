@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hanikhatib
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning about rendering video using instant neural graphics primitives
-- 🤝 I’m looking to collaborate on machine vision projects
+- 🤝 I’m looking to collaborate on ETL projects
 - 📫 How to reach me: https://www.linkedin.com/in/hani-khatib
 
 <!---
