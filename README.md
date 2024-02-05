@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanikhatib
 - 👀 I’m interested in data science
-- 🤝 I’m looking to collaborate on ETL projects
+- 🤝 I’m looking to collaborate on LLMops. RAGops, and GenAI for code generation
 - 📫 How to reach me: https://www.linkedin.com/in/hani-khatib
 
 <!---
