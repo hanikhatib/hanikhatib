@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @hanikhatib
 
-- 👀 **I’m interested in** data science
-- 🤝 **I’m looking to collaborate on** LLMops, RAGops, and GenAI for code generation
+- 👀 **I’m interested in** data science and adversarial red-teaming
+- 🤝 **I’m looking to collaborate on** LLMops, AI for code generation and automated red-teaming applications.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/hani-khatib)
 
 ## Featured Projects
